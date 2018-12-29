@@ -6,4 +6,4 @@ python3 contourf_demo.py
 ```
 
 Sample screenshot :
-![sample_1_screenshot.png]
+![Screenshot](sample_1_screenshot.png)
